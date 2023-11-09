@@ -1,0 +1,6 @@
+package-as: AdiBags_EmeraldDream
+
+license-output: LICENSE.TXT
+
+ignore:
+    - Generate-Readme.ps1
