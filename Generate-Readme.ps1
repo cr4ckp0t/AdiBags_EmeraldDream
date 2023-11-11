@@ -12,12 +12,11 @@ https://legacy.curseforge.com/wow/addons/adibags-emeralddream
 
 $found = @()
 foreach ($line in Get-Content -Path ("{0}\AdiBags_EmeraldDream.lua" -f $PSScriptRoot)) {
-	if ($line -match "\[([0-9]{6})\] = true, -- (.+)") {
-		$found += "* [{0}]\(https://wowhead.com/item={1})" -f ($Matches[2], $Matches[1])
+	if ($line -match "([0-9]{6}), -- (.+)") {
+		$found += "* [{0}](https://wowhead.com/item={1})" -f ($Matches[2], $Matches[1])
 	}
 }
 $found = $found | Sort-Object
-
 
 
 if ($found.Count -gt 0) {
