@@ -1,7 +1,7 @@
 ## Interface: 100200
 ## Title: AdiBags - Emerald Dream
 ## IconTexture: Interface\AddOns\AdiBags_EmeraldDream\Media\crackpot
-## Version: 1.1.0
+## Version: 1.1.1
 ## Author: Crackpot
 ## Notes: Adds an AdiBags filter for items from the Emerald Dream, added in WoW Patch 10.2: Guardians of the Dream.
 ## X-Category: Bags & Inventory
