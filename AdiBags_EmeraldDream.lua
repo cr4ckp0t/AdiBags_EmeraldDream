@@ -103,6 +103,7 @@ local reputation = {
     210730, -- Mark of the Dream Wardens (reputation)
     210757, -- Scales of Remorse (reputation)
     210916, -- Ember of Fyrakk
+    210920, -- Gift of Amirdrassil
     210951, -- Treacherous Research Notes (reputation)
     210952, -- Spare Heated Hearthstone (reputation)
     210954, -- Sprout of Rebirth (reputation)

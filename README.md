@@ -110,6 +110,7 @@ https://legacy.curseforge.com/wow/addons/adibags-emeralddream
 * [Drops of Moon Water](https://www.wowhead.com/item=211366)
 * [Dryad-Keeper Credentials](https://www.wowhead.com/item=211371)
 * [Ember of Fyrakk](https://www.wowhead.com/item=210916)
+* [Gift of Amirdrassil](https://www.wowhead.com/item=210920)
 * [Mark of the Dream Wardens](https://www.wowhead.com/item=210730)
 * [Rune of the Fire Druids](https://www.wowhead.com/item=210957)
 * [Scales of Remorse](https://www.wowhead.com/item=210757)
