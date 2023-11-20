@@ -83,4 +83,7 @@ $repStr = ($found.reputation | Sort-Object) -join "`r`n" | Out-String
 $toyStr = ($found.toys | Sort-Object) -join "`r`n" | Out-String
 $worldEventStr = ($found.worldEvents | Sort-Object) -join "`r`n" | Out-String
 
-Add-Content -Path $readmeFile -Value ($readme -f ($bookStr, $cosmeticStr, $craftingStr, $miscStr, $mountStr, $petStr, $questStr, $repStr, $toyStr, $worldEventStr))
+$readmeStr = ($readme -f ($bookStr, $cosmeticStr, $craftingStr, $miscStr, $mountStr, $petStr, $questStr, $repStr, $toyStr, $worldEventStr))
+
+Add-Content -Path $readmeFile -Value $readmeStr
+Set-Clipboard -Value $readmeStr
