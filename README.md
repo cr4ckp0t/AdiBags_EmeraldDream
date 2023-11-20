@@ -34,7 +34,13 @@ https://legacy.curseforge.com/wow/addons/adibags-emeralddream
 ### Crafting Items
 
 * [Emerald Flightstone](https://www.wowhead.com/item=210180)
+* [Enchanted Aspect's Dreaming Crest](https://www.wowhead.com/item=206961)
+* [Enchanted Whelpling's Dreaming Crest](https://www.wowhead.com/item=206977)
+* [Enchanted Wrym's Dreaming Crest](https://www.wowhead.com/item=206960)
 * [Faint Whispers of Dreaming](https://www.wowhead.com/item=209837)
+* [Nascent Aspect's Dreaming Crest](https://www.wowhead.com/item=208393)
+* [Nascent Whelping's Dreaming Crest](https://www.wowhead.com/item=208395)
+* [Nascent Wyrm's Dreaming Crest](https://www.wowhead.com/item=208394)
 * [Pouch of Whelpling's Dreaming Crests](https://www.wowhead.com/item=210917)
 * [Spark of Dreams](https://www.wowhead.com/item=206959)
 * [Splintered Spark of Dreams](https://www.wowhead.com/item=208396)
@@ -112,6 +118,7 @@ https://legacy.curseforge.com/wow/addons/adibags-emeralddream
 * [Ember of Fyrakk](https://www.wowhead.com/item=210916)
 * [Gift of Amirdrassil](https://www.wowhead.com/item=210920)
 * [Mark of the Dream Wardens](https://www.wowhead.com/item=210730)
+* [Pact of the Netherwing](https://www.wowhead.com/item=210959)
 * [Rune of the Fire Druids](https://www.wowhead.com/item=210957)
 * [Scales of Remorse](https://www.wowhead.com/item=210757)
 * [Spare Heated Hearthstone](https://www.wowhead.com/item=210952)

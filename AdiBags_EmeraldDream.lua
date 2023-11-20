@@ -36,6 +36,12 @@ local cosmetic = {
 
 local crafting = {
     206959, -- Spark of Dreams (crafting)
+    206960, -- Enchanted Wrym's Dreaming Crest (crafting)
+    206961, -- Enchanted Aspect's Dreaming Crest (crafting)
+    206977, -- Enchanted Whelpling's Dreaming Crest (crafting)
+    208393, -- Nascent Aspect's Dreaming Crest (crafting)
+    208394, -- Nascent Wyrm's Dreaming Crest (crafting)
+    208395, -- Nascent Whelping's Dreaming Crest (crafting)
     208396, -- Splintered Spark of Dreams (crafting)
     209837, -- Faint Whispers of Dreaming (crafting)
     210180, -- Emerald Flightstone (crafting)
@@ -102,13 +108,14 @@ local quest = {
 local reputation = {
     210730, -- Mark of the Dream Wardens (reputation)
     210757, -- Scales of Remorse (reputation)
-    210916, -- Ember of Fyrakk
-    210920, -- Gift of Amirdrassil
+    210916, -- Ember of Fyrakk (reputation)
+    210920, -- Gift of Amirdrassil (reputation)
     210951, -- Treacherous Research Notes (reputation)
     210952, -- Spare Heated Hearthstone (reputation)
     210954, -- Sprout of Rebirth (reputation)
     210957, -- Rune of the Fire Druids (reputation)
     210958, -- Crown of the Dryad Daughter (reputation)
+    210959, -- Pact of the Netherwing (reputation)
     211366, -- Drops of Moon Water (reputation)
     211369, -- Charred Staff of the Overseer (reputation)
     211370, -- Branch of Gracus (reputation)

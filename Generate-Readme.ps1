@@ -63,7 +63,7 @@ $found = @{
 
 foreach ($line in Get-Content -Path ("{0}\AdiBags_EmeraldDream.lua" -f $PSScriptRoot)) {
 	if ($line -match "([0-9]{6}), -- (.+) \(([a-z]+)\)") {
-		$found[$Matches[3]] += "* [{0}](https://wowhead.com/item={1})" -f ($Matches[2], $Matches[1])
+		$found[$Matches[3]] += "* [{0}](https://www.wowhead.com/item={1})" -f ($Matches[2], $Matches[1])
 	}
 }
 
